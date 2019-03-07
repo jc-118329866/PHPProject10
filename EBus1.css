@@ -1,0 +1,18 @@
+.bg {
+  background-image: url("g.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+    font-family: 'Times';
+    color: #00B0FF;
+}
+
+.txt{
+    text-align: center;
+    font-family: 'Times';
+    font-size: 20px;
+}
