@@ -8,7 +8,9 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <title>Homepage</title>
-        
+   
+           <a href="https://jc118329866.herokuapp.com/">https://jc118329866.herokuapp.com/</a>
+           <a href="https://github.com/jc-118329866/PHPProject1.git">https://github.com/jc-118329866/PHPProject1.git</a>
         <link rel="stylesheet" type="text/css" href="index.css">
         
     </head>
@@ -38,7 +40,8 @@ and open the template in the editor.
             </tr>
 
         </div>
-        
+  
            </div>
+
     </body>
 </html>

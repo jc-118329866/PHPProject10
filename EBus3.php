@@ -8,7 +8,7 @@
         <h1 style="text-align: center">Receipt</h1>
         <div class="bg">
             <div class="txt">
-        <!-- // Starting the session to get the session variable from lasr page-->
+        <!-- // Starting the session to get the session variable from last page-->
         <br></br>
         <br></br>
         <br></br>
